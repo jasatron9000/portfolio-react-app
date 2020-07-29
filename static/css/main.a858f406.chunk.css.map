@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,+EAAyC,CACzC,qBAA+B,CAC/B,UAAY,CACZ,WACJ","file":"main.a858f406.chunk.css","sourcesContent":["body{\r\n    background-image: url(\"./Background.png\");\r\n    background-color: rebeccapurple;\r\n    width : 100%;\r\n    height : 100%;\r\n}"]}
